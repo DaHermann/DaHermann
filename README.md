@@ -13,7 +13,7 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
 
 HTML - CSS - JAVASCRIPT - NODE JS - SQL - 
 PHP - MVC - PHPMYADMIN - LAMP - XAMPP -
-MYSQL - MONGODB LINUX - UBUNTU - CENTOS
+MYSQL - MONGODB LINUX - UBUNTU - CENTOS -
 KAMAILIO SIP SERVER - ASTERISK - ACCESS CONTROL - CCTV -
 API REST
 
