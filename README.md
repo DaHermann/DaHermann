@@ -37,18 +37,21 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
 ⚛️ React Native •📱 Flutter • 🤖 Android • 🍎 iOS
 -->
 
-<h2>🧑‍💻 Full-Stack & VoIP Engineer</h2>
 
 <h3>🌐 Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <h3>🖥️ Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
@@ -62,7 +65,7 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 </p>
 
-<h3>🐧 Systems</h3>
+<h3>🖥️ Systems & Servers</h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -71,7 +74,7 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
-<h3>📞 VoIP & Telecom</h3>
+<h3>📞 Telecom & VoIP</h3>
 <p>
   <img src="https://img.shields.io/badge/Kamailio-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Asterisk-F68F1E?style=for-the-badge"/>
@@ -82,6 +85,14 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
   <img src="https://img.shields.io/badge/CCTV-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Access_Control-555555?style=for-the-badge"/>
 </p>
+
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge"/>
+</p>
+
 
 
 <!--
