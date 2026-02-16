@@ -11,12 +11,11 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
 
 ## 🧰 Tech Stack & Tools
 
-
 🌐 Frontend:
-🎨 HTML • 🎨 CSS • 🟨 JavaScript 
+🎨 HTML • 🎨 CSS • 🟨 JavaScript • 🅱️ Bootstrap • ⚛️ React
 
 🖥️ Backend:
-🟢 Node.js • 🐘 PHP • 🧱 MVC • 🔗 REST API
+🟢 Node.js • 🟦 TypeScript • 🅽 NestJS • 🐘 PHP • 🧱 MVC • 🔗 REST API 
 
 🗄️ Database:
 🐬 MySQL • 🍃 MongoDB • 🛠️ phpMyAdmin • 🧮 SQL
@@ -29,6 +28,14 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
 
 🔐 Security & Infrastructure:
 🎥 CCTV • 🚪 Access Control
+
+☁️ Cloud & DevOps:
+🐳 Docker • ☸️ Kubernetes • 🔄 CI/CD
+
+<!--📱 Mobile 
+
+⚛️ React Native •📱 Flutter • 🤖 Android • 🍎 iOS
+-->
 
 
 <!--
