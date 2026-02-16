@@ -10,7 +10,7 @@ I'm a software engineer and technical support.
 Hardworking and passionate about ICT, I integrate easily into a team and have the ability to quickly learn new IT technologies.
 
 ## 🧰 Tech Stack & Tools
-
+<!--
 🌐 Frontend:
 🎨 HTML • 🎨 CSS • 🟨 JavaScript • 🅱️ Bootstrap • ⚛️ React
 
@@ -32,11 +32,10 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
 ☁️ Cloud & DevOps:
 🐳 Docker • ☸️ Kubernetes • 🔄 CI/CD
 
-<!--📱 Mobile 
+📱 Mobile 
 
 ⚛️ React Native •📱 Flutter • 🤖 Android • 🍎 iOS
 -->
-
 
 <h3>🌐 Frontend</h3>
 <p>
