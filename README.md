@@ -11,11 +11,25 @@ Hardworking and passionate about ICT, I integrate easily into a team and have th
 
 ## 🧰 Tech Stack & Tools
 
-HTML - CSS - JAVASCRIPT - NODE JS - SQL - 
-PHP - MVC - PHPMYADMIN - LAMP - XAMPP -
-MYSQL - MONGODB LINUX - UBUNTU - CENTOS -
-KAMAILIO SIP SERVER - ASTERISK - ACCESS CONTROL - CCTV -
-API REST
+
+🌐 Frontend:
+🎨 HTML • 🎨 CSS • 🟨 JavaScript 
+
+🖥️ Backend:
+🟢 Node.js • 🐘 PHP • 🧱 MVC • 🔗 REST API
+
+🗄️ Database:
+🐬 MySQL • 🍃 MongoDB • 🛠️ phpMyAdmin • 🧮 SQL
+
+🖥️ Systems & Servers:
+🐧 Linux • 🟠 Ubuntu • 🔴 CentOS • 💡 LAMP • ⚙️ XAMPP
+
+📞 Telecom & VoIP:
+📡 Kamailio SIP Server • ☎️ Asterisk
+
+🔐 Security & Infrastructure:
+🎥 CCTV • 🚪 Access Control
+
 
 <!--
 **DaHermann/DaHermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
